@@ -1,2 +1,2 @@
 # Result-Portal
-This is a small result portal for a college built upon PHP, mySQL and jquery
+This is a result portal for a college built upon PHP, mySQL and jquery
