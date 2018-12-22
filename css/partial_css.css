@@ -1,0 +1,11 @@
+.section>div
+{
+	border-radius: 10px;
+	color: #000;
+	margin-top: 9.2%;
+	margin-left: 8.9%;
+    padding: 10px;
+	width: 87.3%;
+	max-height: 500px;
+	position: relative;
+}
